@@ -8,7 +8,7 @@
 
 ## Demo
 
-<img width="auto" alt="demo_vseditor" src="https://j.gifs.com/lxGN95.gif">
+<img width="auto" alt="demo_vseditor" src="https://j.gifs.com/mOJgmp.gif">
 
 ## Technology / Library Used
 * JavaScript
